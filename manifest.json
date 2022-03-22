@@ -14,7 +14,7 @@
   
   "content_scripts": [
     {
-      "matches": ["https://dictionary.cambridge.org/*"],
+      "matches": ["https://dictionary.cambridge.org/*", "https://www.diki.pl/*"],
       "js": ["jquery-3.2.1.min.js", "content.js"]
     }
   ],
