@@ -1,3 +1,6 @@
 # dictionary-cambridge-pronunciation-downloader
-chrome plugin 
-Plugin can download pronunciation of a word from https://dictionary.cambridge.org/
+chrome plugin
+
+This plugin adds download button word pronunciation from page:
+* https://dictionary.cambridge.org/
+* https://www.diki.pl/
